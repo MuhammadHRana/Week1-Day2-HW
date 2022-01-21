@@ -1,0 +1,119 @@
+.header-items {
+    display: flex;
+    background-color: black;
+    display: flex;
+    margin: 0px;
+    width: 100%;
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.header-sub a {
+    font-size: small;
+    margin-left: 200px;
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+
+}
+
+.header-main {
+    font-size: large;
+    text-align: left;
+    margin-left: 20px;
+    color: white;
+}
+
+.image-main-text {
+    font-size: 100pt;
+    color: white;
+    z-index: 0;
+    justify-content: center;
+    position: absolute;
+    padding-top: 300px;
+}
+
+.image-main {
+    z-index: 1;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.date-title {
+    margin-top: 1000px;
+    display: flex;
+    justify-content: center;
+    border: 10px solid gray;
+}
+
+.sections {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.sections-image-text {
+    list-style-type: none;
+    text-decoration: none;
+    padding: 75px;
+    font-size: 20pt;
+}
+
+.raisin-group a {
+    display: flex;
+    background-color: orange;
+    height: 100px;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 30pt;
+    border: 1px solid gray;
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
+
+.raisin-image {
+    display: flex;
+    padding: 75px;
+}
+
+.raisin-group {
+    display: flex;
+}
+
+.footer-section {
+    padding: 0px;
+    background-color: black;
+    width: 100%;
+    display: flex;
+
+}
+
+.footer-image {
+    margin: 100px;
+}
+
+.section {
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.line-two a {
+    list-style-type: none;
+    text-decoration: none;
+    justify-content: center;
+    font-size: 25pt;
+    color: white;
+}
+
+
+
+.footer-title {
+    font-size: 50pt;
+    margin: 100px;
+    text-decoration: none;
+    list-style-type: none;
+}
